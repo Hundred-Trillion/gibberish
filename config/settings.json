@@ -1,0 +1,13 @@
+{
+    "shortcut": ["ctrl", ";"],
+    "initializer_enabled": true,
+    "initializer_text": "Respond minimal. No fluff. Direct answers only.",
+    "compression_level": "ultra",
+    "simulate_copy_delay_ms": 50,
+    "simulate_paste_delay_ms": 50,
+    "notification_enabled": true,
+    "log_enabled": false,
+    "log_file": "gibberish.log",
+    "custom_filler_words": [],
+    "custom_removals": []
+}

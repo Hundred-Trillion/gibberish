@@ -13,6 +13,12 @@ Select messy text anywhere → press a hotkey → get a clean, compressed prompt
 
 </div>
 
+> [!IMPORTANT]
+> **Windows users**: You must run your terminal **as Administrator** (right-click → "Run as administrator").  
+> **macOS users**: Grant **Accessibility permissions** to your terminal app.  
+> **Linux users**: Run with `sudo`.  
+> This is required for global hotkey capture to work system-wide.
+
 ---
 
 ## 🎯 What It Does
